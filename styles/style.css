@@ -57,7 +57,7 @@
 	z-index: -2;
 	margin-bottom: 179px;
 	padding: 165px 50px 50px 50px;
-	background-image: url("/ono-tebe-nado/images/cover.jpg");
+	background-image: url("./../images/cover.jpg");
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: cover;
@@ -170,7 +170,7 @@
 .card_type_film {
 	position: relative;
 	z-index: -2;
-	background-image: url("/ono-tebe-nado/images/card-lot-01.jpg");
+	background-image: url("./../images/card-lot-01.jpg");
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: cover;
@@ -179,7 +179,7 @@
 .card_type_book {
 	position: relative;
 	z-index: -2;
-	background-image: url("/ono-tebe-nado/images/card-lot-02.jpg");
+	background-image: url("./../images/card-lot-02.jpg");
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: cover;
@@ -188,7 +188,7 @@
 .card_type_picture {
 	position: relative;
 	z-index: -2;
-	background-image: url(/ono-tebe-nado/images/card-lot-03.jpg);
+	background-image: url("./../images/card-lot-03.jpg");
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: cover;
