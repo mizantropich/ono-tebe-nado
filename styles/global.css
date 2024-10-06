@@ -8,6 +8,7 @@ body {
   width: 1100px;
   margin: 0 auto;
   font-family: Raleway, sans-serif;
+	text-underline-offset: 5px;
 }
 
 h1,
@@ -31,4 +32,8 @@ a {
 
 img {
   width: 100%;
+}
+
+address {
+	font-style: normal;
 }
